@@ -1,4 +1,4 @@
-# Preetham-Sahyadri-ECE
-Task 1
+# Task 1
+Preetham 
 RISC-V Talent Development Program
 c based and riscv based labs 
